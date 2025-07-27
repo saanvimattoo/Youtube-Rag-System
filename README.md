@@ -15,7 +15,7 @@ RewindAI is a full-stack web application that allows users to have conversations
 * **Framework:** Next.js (App Router)  
 * **Frontend:** React, Tailwind CSS  
 * **Authentication:** NextAuth.js  
-* **AI / Embeddings:** Google Gemini API  
+* **AI/Embeddings:** Google Gemini API  
 * **Vector Database:** Pinecone  
 * **Database:** MongoDB  
 * **YouTube Integration:** youtubei.js
