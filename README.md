@@ -59,9 +59,8 @@ RewindAI is a full-stack web application that allows users to have conversations
    npm run dev
 
    Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) in your browser to see the application.
-
-### **Obtaining API Keys**
-
+   
+### **Obtaining API Key**
 * **MONGODB\_URI**: Get this from your MongoDB Atlas dashboard by creating a new cluster and clicking "Connect".  
 * **NEXTAUTH\_SECRET**: Generate a secret by running openssl rand \-base64 32 in your terminal.  
 * **GOOGLE\_CLIENT\_ID & GOOGLE\_CLIENT\_SECRET**: Create these in the [Google Cloud Console](https://console.cloud.google.com/) under "APIs & Services" \> "Credentials". Remember to add http://localhost:3000/api/auth/callback/google to your authorized redirect URIs.  
