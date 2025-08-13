@@ -39,7 +39,7 @@ RewindAI is a full-stack web application that allows users to have conversations
 2. **Install dependencies:**  
    npm install
 
-3. Set up environment variables:-
+3. **Set up environment variables:-**
    Create a file named .env.local in the root of the project and add the following variables. See the section below for instructions on how to get these keys.  
    \# MongoDB  
    MONGODB\_URI=
